@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Brad Gibson",
+      "company": "YouTube",
+      "email": "brad@gmail.com",
+      "title": "YouTuber",
+      "mobile": "01795617669",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "groupId": "3"
+    },
+    {
+      "id": "T6BNdWnHI",
+      "name": "Vaskar Kundu",
+      "company": "Software Comapny",
+      "email": "aionvaskor98@gmail.com",
+      "title": "Engineer",
+      "mobile": "01795617667",
+      "photo": "https://toppng.com//public/uploads/preview/login-icons-user-flat-icon-115534363917nmr24mjcm.png",
+      "groupId": "2"
+    },
+    {
+      "id": "G6BNdWnHI",
+      "name": "Fuad Akash",
+      "company": "Corporate",
+      "email": "akash@gmail.com",
+      "title": "Sells executive",
+      "mobile": "01795617665",
+      "photo": "https://i.pinimg.com/originals/8b/16/7a/8b167af653c2399dd93b952a48740620.jpg",
+      "groupId": "1"
+    },
+    {
+      "id": "V6BNdWnHI",
+      "name": "Murslin Gibson",
+      "company": "Service",
+      "email": "onim@gmail.com",
+      "title": "Service Engineer",
+      "mobile": "01795617679",
+      "photo": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-users-icon-png-image_4144740.jpg",
+      "groupId": "4"
+    },
+    {
+      "id": "V6BNdWnHI",
+      "name": "Murslin Gibson",
+      "company": "Service",
+      "email": "onim@gmail.com",
+      "title": "Service Engineer",
+      "mobile": "01795617679",
+      "photo": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-users-icon-png-image_4144740.jpg",
+      "groupId": "4"
+    },
+    {
+      "name": "Aninda Kundu",
+      "photo": "https://www.freeiconspng.com/thumbs/computer-user-icon/computer-user-icon-28.png",
+      "email": "aninda@gmail.com",
+      "mobile": 1715268275,
+      "company": "Public",
+      "title": "Student",
+      "groupId": "3",
+      "id": "E2ltvPn"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
